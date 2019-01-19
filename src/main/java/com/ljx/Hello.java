@@ -6,4 +6,7 @@ package com.ljx;
  * Time: 0:09
  */
 public class Hello {
+    public void hellow(){
+
+    }
 }
