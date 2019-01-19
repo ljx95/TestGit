@@ -7,6 +7,6 @@ package com.ljx;
  */
 public class Hello {
     public void hellow(){
-
+       String aa;
     }
 }
